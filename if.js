@@ -1,3 +1,4 @@
+//Jasmine Linang, January 13, 2022 omg
 // Hello class, today you are going to create a number 
 // to letter grade conversion
 
